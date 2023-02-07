@@ -1,0 +1,7 @@
+span {
+  margin-top: 2em;
+}
+
+.inverted {
+  filter: invert(100%);
+}
